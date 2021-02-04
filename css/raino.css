@@ -1,0 +1,145 @@
+.header-top{
+    border-radius: 0px 0px 150px 150px;
+}
+.headerh1{
+    font-size: calc(1.475rem + 2.7vw);
+    margin-top: 50px;
+}
+.headerimg{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.rainobtn{
+    background-color:white;
+    border: 1px solid white;
+    float: left;
+}
+.rainobtn:hover{
+    color: white;
+    background-color: #007bff;
+    border: 2px solid white;
+    transition: all .4s;
+}
+
+.linkhov{
+ color: #a2a1b5;  
+}
+.linkhov:hover{
+color: white;
+}
+.btncontact{
+    background-color: #008aff;
+    color: white;
+}
+.btncontact:hover{
+    background-color: #ffffff;
+    color: #008aff;
+    border: 1px solid #008aff;
+    transition: all .3s;
+}
+.gethov:hover{
+    background-color: #ffffff;
+    color: #ffbe3d;
+    border: 2px solid #ffbe3d;
+    transition: all .5s; 
+}
+img{
+    max-width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+.team-img{
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+    max-width: 100%;
+}
+.team-ic{
+    position: absolute;
+    bottom: 0;
+    padding: 15px;
+    opacity: 0;
+    z-index: 1;
+    transition: ease all 0.33s;
+}
+.sha:hover{
+    box-shadow: 1px 2px 13px 0px rgba(0,0,0,0.75);    transition: all .3s;
+}
+.only-icon{
+    width: 70px;
+    font-size: 45px;
+    line-height: 45px;
+    color: #008aff;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: relative;
+   
+}
+.power{
+    border-radius: 30px;
+    box-shadow: 0 1rem 3rem rgba(31, 45, 61, 0.125); 
+    padding-left: 25px;
+    padding-right: 25px; 
+}
+.power:hover{
+    transition: ease-in-out all 0.10s;
+}
+.effect{
+    position: relative;
+    overflow: hidden;
+}
+.unlimited{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.border-left{
+    border-left: 2px solid #008aff;
+    padding-left: 25px;
+    margin-top: 35px;
+}
+.morebtn:hover{
+    background-color: #ffffff;
+    color: #008aff;
+    border: 2px solid #008aff;
+    transition: all .5s; 
+}
+.carouselslide{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px solid #f2f3fa;
+}
+.owl-carousel{
+    display: none;
+    width: 100%;
+    z-index: 1
+}
+.owl-stage-outer{
+    position: relative;
+    overflow: hidden;
+}
+.imgtwo{
+    min-height: 350px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    height: 100%;
+}
+.yazi1{
+ 
+    font-weight: 700;
+    font-size: calc(1.475rem + 2.7vw);
+}
+.lead{
+    font-weight: 400;
+    line-height: 1.5;
+}
+.btncontact2:hover{
+    background-color: #ffffff;
+    color: #171347;;
+    border: 1px solid #171347;
+    transition: all .3s;
+}
+
